@@ -1,1 +1,1 @@
-# rank-metrics
+# ranking-metrics
